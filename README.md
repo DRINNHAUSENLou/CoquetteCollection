@@ -1,5 +1,8 @@
 # CoquetteCollection
 
+Ce site est un site fictif individuel contenant une base de donnée. 
+Ci-dessous une vidéo représentant mon site.
+
 ![Capture d'écran 2025-02-24 204740](https://github.com/user-attachments/assets/532d311a-656d-4f16-bd2e-d50dd65f03e8)
 
 https://youtu.be/Ew7b83Nho3c
