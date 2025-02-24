@@ -1,6 +1,9 @@
 # CoquetteCollection
 
-Ce site est un site fictif individuel contenant une base de donnée. 
+Ce site est un site fictif individuel contenant une base de donnée.
+
+Dans le cadre d’une SAE (Situation d'Apprentissage et d'Evaluation), j’ai développé un site en utilisant Twig, HTML, CSS et PHP. En plus de l’intégration front-end, j’ai également conçu et mis en place une base de données, en y ajoutant moi-même les données nécessaires.
+
 Ci-dessous une vidéo représentant mon site.
 
 https://youtu.be/Ew7b83Nho3c
